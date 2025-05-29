@@ -6,7 +6,7 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: "Assets/Scene/IGB 101 Assignment 1 Tommy\uFF08TianyiTang\uFF09.unity"
+    path: "Assets/Tommy/Scene/IGB 101 Assignment 1 Tommy\uFF08TianyiTang\uFF09.unity"
     guid: dcad2420dd2bafd4e98a4a977f0afdd7
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
